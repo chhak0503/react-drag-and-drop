@@ -16,14 +16,6 @@ import Multi from "./components/Multi";
   주의사항 
    - Draggable 기능을 위해 index.js에서 <React.StrictMode> 주석해야 됨
 */
-
-const initialItems = [
-  { id: "item-1", content: "Item 1" },
-  { id: "item-2", content: "Item 2" },
-  { id: "item-3", content: "Item 3" },
-  { id: "item-4", content: "Item 4" },
-];
-
 const App = () => {
   return (
     <div className="App">
