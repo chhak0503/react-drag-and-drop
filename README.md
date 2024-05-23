@@ -1,9 +1,6 @@
 # React-drag-and-drop
+리액트 Drag and Drop 기능 실습
 
-- 날짜 : 2024/05/24
-- 이름 : 김철학
-- 내용 : 리액트 Drag and Drop 기능 실습
-  
 - 패키지 설치
    - npm install react-beautiful-dnd
    - npm install sass 
